@@ -1,0 +1,63 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "org.dslul.openboard.inputmethod.latin_1.4.5.apk": {
+    "hash": "528e7df7c6bc7945af9d447afe40db5ac7264157a09c0545bf43f6827d9bca35",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_USER_DICTIONARY",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_USER_DICTIONARY",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "org.dslul.openboard.inputmethod.latin.19.png",
+      "480": "org.dslul.openboard.inputmethod.latin.19.png",
+      "320": "org.dslul.openboard.inputmethod.latin.19.png",
+      "240": "org.dslul.openboard.inputmethod.latin.19.png",
+      "160": "org.dslul.openboard.inputmethod.latin.19.png",
+      "0": "org.dslul.openboard.inputmethod.latin.19.png"
+    },
+    "antiFeatures": {},
+    "packageName": "org.dslul.openboard.inputmethod.latin",
+    "versionCode": 19,
+    "name": "OpenBoard",
+    "versionName": "1.4.5",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "aa2150de4738bb0f20024dc2161b51a3",
+    "signer": "1737fb27c028bd4e3ae02c099fabd59c310a99efc8dceb8a29f7b40567f4c80a",
+    "size": 56366683,
+    "apkName": "org.dslul.openboard.inputmethod.latin_1.4.5.apk",
+    "icon": "org.dslul.openboard.inputmethod.latin.19.png",
+    "added": 1787393270.0
+  }
+}
