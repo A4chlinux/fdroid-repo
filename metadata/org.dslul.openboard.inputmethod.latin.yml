@@ -1,11 +1,22 @@
+Categories:
+  - Keyboard
 License: Apache-2.0
-AuthorName: A4chlinux
+SourceCode: https://github.com/A4chlinux/openboard
+IssueTracker: https://github.com/A4chlinux/openboard/issues
+WebSite: https://github.com/A4chlinux/openboard
+
 AutoName: OpenBoard
+Summary: Open source keyboard
+Description: |
+  OpenBoard is an open source keyboard application.
+
 RepoType: git
 Repo: https://github.com/A4chlinux/openboard.git
+
 Builds:
   - versionName: 1.4.5
     versionCode: 19
-    commit: 08510f0a25ac128223dc55d9ce118a34d218937e
+    commit: HEAD
+    subdir: app
     gradle:
-      - app
+      - yes
