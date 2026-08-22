@@ -468,3 +468,4 @@ keydname: CN=A4chlinux, OU=F-Droid
 # every run, set this to true:
 #
 # refresh_scanner: true
+repo_icon: repo/icons/icon.png
