@@ -1,0 +1,1 @@
+{"commandLine":["/home/juanmiguel/fdroid-env/bin/fdroid build","--refresh","org.dslul.openboard.inputmethod.latin"],"endTimestamp":1787391422771,"failedBuilds":[["org.dslul.openboard.inputmethod.latin",19]],"startTimestamp":1787387822000,"subcommand":"build","successfulBuildIds":[]}
