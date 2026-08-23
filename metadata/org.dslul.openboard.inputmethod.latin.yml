@@ -16,7 +16,14 @@ Repo: https://github.com/A4chlinux/openboard.git
 Builds:
   - versionName: 1.4.5
     versionCode: 19
-    commit: HEAD
+    commit: 4b02ac1
+    subdir: app
+    gradle:
+      - yes
+
+  - versionName: 1.4.6
+    versionCode: 20
+    commit: 1bc8153
     subdir: app
     gradle:
       - yes
