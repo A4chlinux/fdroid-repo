@@ -27,3 +27,10 @@ Builds:
     subdir: app
     gradle:
       - yes
+
+  - versionName: 1.4.7
+    versionCode: 21
+    commit: 984bd97
+    subdir: app
+    gradle:
+      - yes
