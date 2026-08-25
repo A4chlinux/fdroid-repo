@@ -1,0 +1,33 @@
+Categories:
+  - Security
+
+License: GPL-3.0-only
+
+SourceCode: https://github.com/A4chlinux/Shelter
+
+IssueTracker: https://github.com/A4chlinux/Shelter/issues
+
+WebSite: https://github.com/A4chlinux/Shelter
+
+AutoName: Shelter
+
+Summary: Work profile isolation app
+
+Description: |
+  Shelter is an open source app that uses Android's work profile feature
+  to isolate applications and protect user privacy.
+
+RepoType: git
+Repo: https://github.com/A4chlinux/Shelter.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 513
+    commit: ac630d3
+    subdir: app
+    submodules: true
+    scanignore:
+      - libs/SetupWizardLibrary/tools/docs/doclava.jar
+      - libs/SetupWizardLibrary/tools/docs/jsilver.jar
+      - libs/SetupWizardLibrary/library/self.gradle
+    gradle: yes
